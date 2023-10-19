@@ -1,16 +1,14 @@
 # advicer
 
-A new Flutter project.
+A  Flutter project.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Description
+Get Advice App is a simple app which displays varity of advices on home page. This App get the advice data from an open api source which is from flutter community (" https://api.flutter-community.com/api/v1/advice")
+## Feature
+  * Display advice on page
+  * Has Dark mode
+## Technologies used
+  * Flutter framework for building the UI and handling user interaction
+  * Bloc For state Managment
+  * Clean Archtiecture
+    

@@ -19,8 +19,8 @@ Get Advice App is a simple app which displays varity of advices on home page. Th
 <img src="/advicer/image_for_readme/third.png" alt="month image" width="200" height="400">
 </div>
 <div style="display: flex;">
-<img src="/image_for_readme/fourth.png" alt="login image" width="200" height="400">
-<img src="/image_for_readme/fifth.png" alt="home image" width="200" height="400">
+<img src="/advicer/image_for_readme/fourth.png" alt="login image" width="200" height="400">
+<img src="/advicer/image_for_readme/fifth.png" alt="home image" width="200" height="400">
 
 </div>
     
